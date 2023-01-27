@@ -5,3 +5,5 @@
   space in the parent view. **Default weight is zero.**
 - Use onclick in xml `android:onClick="onDigit"`. `android:onClick` is used to define the Kotlin function to be invoked in the activity when the button is clicked.
   It is a click listener.
+- **wrap_content** tells your view to size itself to the dimensions required by its content.
+- **match_parent** tells your view to become as big as its parent view group will allow.
