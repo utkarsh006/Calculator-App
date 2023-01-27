@@ -7,3 +7,4 @@
   It is a click listener.
 - **wrap_content** tells your view to size itself to the dimensions required by its content.
 - **match_parent** tells your view to become as big as its parent view group will allow.
+- We can use **it keyword** in higher order functions when there is only single parameter.
